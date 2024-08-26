@@ -50,9 +50,13 @@ Just My Socks完全按照国外的思维方式和先进的技术进行建设和�
 多数平台都支持全平台客户端。各平台客户端推荐：
 
 Windows 推荐使用 clash for window/netch
+
 Mac 推荐使用 clashX/clash for windows 的 mac 版本/有钱的买 surge
+
 IOS 推荐小火箭 Shadowrocket/quantumultX/有钱的买 surge
+
 安卓推荐 Surfboard、clashforAndroid(CFA) 、v2rayNG
+
 linux 推荐 shell clash 或者 clash for windows 的 linux 版本
 
 
